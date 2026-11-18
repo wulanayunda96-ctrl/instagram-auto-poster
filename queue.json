@@ -1,0 +1,80 @@
+[
+  {
+    "feed": "Reel 1",
+    "type": "video",
+    "files": [
+      "media/reel1/reel-1.mp4"
+    ],
+    "publish_at_est": "2026-11-18 19:00",
+    "status": "ready",
+    "caption": "My slow morning in 30 seconds\nCoffee, skincare, and a little calm before the day starts.\nWhat's your morning must-have?\n\n#morningroutine #slowliving #lifestyle #selfcare #dailyreels",
+    "cover": "media/reel1/cover.jpg"
+  },
+  {
+    "feed": "Feed 2",
+    "type": "image",
+    "files": [
+      "media/feed2/feed-2a.jpg"
+    ],
+    "publish_at_est": "2026-11-19 08:00",
+    "status": "ready",
+    "caption": "Slow mornings are my favorite kind of mornings ☕\nCoffee in hand, no rush, just calm.\nHow do you start your day?\n\n#morningroutine #slowliving #coffee #lifestyle #cozy"
+  },
+  {
+    "feed": "Feed 3",
+    "type": "image",
+    "files": [
+      "media/feed3/feed-3a.jpg",
+      "media/feed3/feed-3b.jpg",
+      "media/feed3/feed-3c.jpg",
+      "media/feed3/feed-3d.jpg"
+    ],
+    "publish_at_est": "2026-11-19 19:00",
+    "status": "ready",
+    "caption": "Wearing my heritage, styled my way ✨\nSwipe for the details — gold brooch, gold earrings, and batik.\nWhich detail is your favorite? 1, 2, 3, or 4?\n\n#kebaya #elegantstyle #fashion #heritage #lifestyle"
+  },
+  {
+    "feed": "Feed 4",
+    "type": "image",
+    "files": [
+      "media/feed4/feed-4a.jpg",
+      "media/feed4/feed-4b.jpg",
+      "media/feed4/feed-4c.jpg"
+    ],
+    "publish_at_est": "2026-11-20 08:00",
+    "status": "ready",
+    "caption": "My 3-step glow, no filter needed ✨\n1. Cleanse\n2. Serum\n3. Moisturize\nSave this for your slow morning.\n\n#skincare #glow #beauty #selfcare #morningroutine"
+  },
+  {
+    "feed": "Feed 5",
+    "type": "image",
+    "files": [
+      "media/feed5/feed-5a.jpg"
+    ],
+    "publish_at_est": "2026-11-20 19:00",
+    "status": "ready",
+    "caption": "Ready for the day, but make it soft 🤍\nLinen, wavy hair, and a little sunshine.\nSave this for your next slow day out.\n\n#ootd #linen #lifestyle #getreadywithme #slowliving"
+  },
+  {
+    "feed": "Feed 6",
+    "type": "image",
+    "files": [
+      "media/feed6/feed-6a.jpg",
+      "media/feed6/feed-6b.jpg"
+    ],
+    "publish_at_est": "2026-11-21 08:00",
+    "status": "ready",
+    "caption": "Slow breakfast, no rush 🍓☕\nToast, fruit, and coffee before the day starts.\nWhat is on your breakfast table today?\n\n#breakfast #slowliving #morningroutine #lifestyle #cozy"
+  },
+  {
+    "feed": "Feed 7",
+    "type": "image",
+    "files": [
+      "media/feed7/feed-7a.jpg",
+      "media/feed7/feed-7b.jpg"
+    ],
+    "publish_at_est": "2026-11-21 19:00",
+    "status": "ready",
+    "caption": "A quiet afternoon with a book and my journal 📖\nNo notifications, just slow pages.\nWhat are you reading this week?\n\n#reading #journaling #slowliving #lifestyle #selfcare"
+  }
+]
